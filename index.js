@@ -36,7 +36,7 @@ db.sequelize.
     console.log("Synced db.");
   })
   .catch((err) => {
-    console.log("Failed to sync db: " + err.message);
+    console.log("Failed to sync db: " + err);
   });
 
 

@@ -15,15 +15,14 @@
   "author": "Arulmurugan",
   "license": "ISC",
   "dependencies": {
-    "bcryptjs": "^2.4.3",
-    "dotenv": "^16.3.1",
-    "express": "^4.17.1",
+    "bcryptjs": "^3.0.2",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
     "fs": "^0.0.1-security",
     "jsonwebtoken": "^9.0.2",
-    "mysql2": "^2.3.3",
-    "nodemon": "^3.0.1",
-    "sequelize": "^5.22.0",
-    "sqlite3": "^5.1.6"
+    "mysql2": "^3.13.0",
+    "nodemon": "^3.1.9",
+    "sequelize": "^6.37.6"
   },
   "devDependencies": {
     "jest": "^27.4.5"
